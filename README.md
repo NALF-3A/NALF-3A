@@ -2,11 +2,11 @@
 
    Me chamo Nicolas A.  L. Ferreira
 
--Estou estudando na Alura
+- Estou estudando na Alura
 
--Me desenvolvendo na linguagem JavaScript
+- E se desenvolvendo na linguagem JavaScript
 
--Uso essa rede para organizar e compartilhar meus projetos.
+- Uso essa rede para organizar e compartilhar meus projetos.
 
  ### Entre em contato comigo⤵️
 
