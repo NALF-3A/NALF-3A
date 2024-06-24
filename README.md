@@ -1,4 +1,15 @@
-## Hi there 👋
+## Seja Bem vindo ao meu perfil🧡
+
+   Me chamo Nicolas A. L. Ferreira
+
+-Estou estudando na Alura
+-Me desenvolvendo na linguagem JavaScript
+-Uso essa rede para organizar e compartilhar meus projetos.
+
+ ### Entre em contato comigo⤵️
+
+ nicolasaugustolara2@gmail.com
+ 
 
 <!--
 **NALF-3A/NALF-3A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
